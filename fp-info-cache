@@ -1,4 +1,4 @@
-25640025961323399
+25638289635796182
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -103109,13 +103109,6 @@ rotary encoder
 0
 7
 6
-royboard_footprints
-SK6812MINI-E
-
-
-0
-4
-4
 royboard_footprints
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
