@@ -1,0 +1,20 @@
+Raspberry Pi Pico-R3
+
+Link to CAD models:
+https://grabcad.com/library/raspberry-pi-pico-r3-1
+
+The first micro controller offered from the Raspberry Pi foundation. 
+
+The software support and documentation are solid.  I will try to use it in a few projects.
+https://www.raspberrypi.org/products/raspberry-pi-pico/
+
+It's nice that it is programmable in both MicroPython and C++.
+MicroPython files can be dragged and dropped to work right away, but I'm not sure if the same can be done for C/C++ files.
+
+I was hoping for better deep sleep currents and idle power usage and also WiFi like the ESP32. Also a USB Type C connector in 2021 would have been nice.
+
+I hope they take inspiration from the Tiny Pico (low power usage ESP32) and its good low power features.
+
+https://www.tinypico.com/
+
+#CAD #SolidWorks #3dmodel #microcontroller #raspberrypipico

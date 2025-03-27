@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Rpi_pico")(type "KiCad")(uri "${KIPRJMOD}/assets/Symbols/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+)
