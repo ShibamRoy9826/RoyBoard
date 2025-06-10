@@ -16,11 +16,11 @@ A Custom wired mechanical keyboard that I made by myself! This is a part of [hac
 
 ## Screenshots
 
-![3dFront][assets/screenshots/3dFront.png]
-![3dBack][assets/screenshots/3dBack.png]
-![schematic][assets/screenshots/schematic.png]
-![pcbFront][assets/screenshots/pcbFront.png]
-![pcbBack][assets/screenshots/pcbBack.png]
+![3dFront](assets/screenshots/3dFront.png)
+![3dBack](assets/screenshots/3dBack.png)
+![schematic](assets/screenshots/schematic.png)
+![pcbFront](assets/screenshots/pcbFront.png)
+![pcbBack](assets/screenshots/pcbBack.png)
 
 ## What tools did I use?
 
