@@ -2042,7 +2042,7 @@
 		)
 	)
 	(junction
-		(at 68.58 262.89)
+		(at 62.23 222.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "01a5ec04-ad11-44e3-bd41-7d36cbe3cb4e")
@@ -2060,7 +2060,7 @@
 		(uuid "06dd3df1-75ec-4f0e-a7c8-971df31707a9")
 	)
 	(junction
-		(at 137.16 270.51)
+		(at 130.81 229.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "079e0b5c-cc26-4894-a605-d8ef6181cd57")
@@ -2522,13 +2522,13 @@
 		(uuid "75b73fd3-75a7-42d3-8625-cdb38e7f706c")
 	)
 	(junction
-		(at 48.26 262.89)
+		(at 41.91 222.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "76489b74-f0d1-405c-b410-2eaeb6a08ed9")
 	)
 	(junction
-		(at 68.58 278.13)
+		(at 62.23 237.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7855438e-1b28-43f2-9130-5006abfaead5")
@@ -2546,13 +2546,13 @@
 		(uuid "84c1765d-ae40-4027-94e6-acc90b8c3c75")
 	)
 	(junction
-		(at 88.9 278.13)
+		(at 82.55 237.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "85b8f41c-cf6e-44a4-838b-29fbdaaf71d6")
 	)
 	(junction
-		(at 129.54 278.13)
+		(at 123.19 237.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "882eee97-2bda-4f99-b6fa-f610914f8ce9")
@@ -2612,13 +2612,13 @@
 		(uuid "9f8aa1e5-51b2-4907-a50d-ad4ea390d448")
 	)
 	(junction
-		(at 48.26 278.13)
+		(at 41.91 237.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9feb4206-4309-40cd-81c0-065d862fbfee")
 	)
 	(junction
-		(at 109.22 262.89)
+		(at 102.87 222.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a4ecc3a6-fb4a-4610-93d0-4e2756fc83a2")
@@ -2696,7 +2696,7 @@
 		(uuid "b62dc5e9-424b-4801-8bb5-a1a33cb704b0")
 	)
 	(junction
-		(at 109.22 278.13)
+		(at 102.87 237.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b7255346-11b1-4538-aab7-563a742160ee")
@@ -2780,13 +2780,13 @@
 		(uuid "ca659a15-9b15-4bb8-867d-1840b23c6139")
 	)
 	(junction
-		(at 88.9 262.89)
+		(at 82.55 222.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ca944aae-ee33-4aa8-a196-5dfec653d26e")
 	)
 	(junction
-		(at 129.54 262.89)
+		(at 123.19 222.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cb466f4b-30ca-4123-97a1-1072d8a40a53")
@@ -3002,11 +3002,11 @@
 		(uuid "fef1033c-fe87-4e45-ab46-eac27d7dd78d")
 	)
 	(no_connect
-		(at 161.29 270.51)
+		(at 154.94 229.87)
 		(uuid "d9f1c804-cfa2-4de5-b909-dfe50734fd05")
 	)
 	(bus_entry
-		(at 342.9 179.07)
+		(at 270.51 134.62)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -3026,7 +3026,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 278.13) (xy 148.59 278.13)
+			(xy 123.19 237.49) (xy 142.24 237.49)
 		)
 		(stroke
 			(width 0)
@@ -3086,7 +3086,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 270.51) (xy 121.92 270.51)
+			(xy 110.49 229.87) (xy 115.57 229.87)
 		)
 		(stroke
 			(width 0)
@@ -3186,7 +3186,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 278.13) (xy 88.9 278.13)
+			(xy 62.23 237.49) (xy 82.55 237.49)
 		)
 		(stroke
 			(width 0)
@@ -3196,7 +3196,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 262.89) (xy 109.22 262.89)
+			(xy 82.55 222.25) (xy 102.87 222.25)
 		)
 		(stroke
 			(width 0)
@@ -3296,7 +3296,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 270.51) (xy 137.16 270.51)
+			(xy 129.54 229.87) (xy 130.81 229.87)
 		)
 		(stroke
 			(width 0)
@@ -3336,7 +3336,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 270.51) (xy 140.97 270.51)
+			(xy 130.81 229.87) (xy 134.62 229.87)
 		)
 		(stroke
 			(width 0)
@@ -3576,7 +3576,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 262.89) (xy 129.54 262.89)
+			(xy 102.87 222.25) (xy 123.19 222.25)
 		)
 		(stroke
 			(width 0)
@@ -4106,7 +4106,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 270.51) (xy 81.28 270.51)
+			(xy 69.85 229.87) (xy 74.93 229.87)
 		)
 		(stroke
 			(width 0)
@@ -4236,7 +4236,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 262.89) (xy 88.9 262.89)
+			(xy 62.23 222.25) (xy 82.55 222.25)
 		)
 		(stroke
 			(width 0)
@@ -4246,7 +4246,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 270.51) (xy 60.96 270.51)
+			(xy 49.53 229.87) (xy 54.61 229.87)
 		)
 		(stroke
 			(width 0)
@@ -4326,7 +4326,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 278.13) (xy 129.54 278.13)
+			(xy 102.87 237.49) (xy 123.19 237.49)
 		)
 		(stroke
 			(width 0)
@@ -4536,7 +4536,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 270.51) (xy 101.6 270.51)
+			(xy 90.17 229.87) (xy 95.25 229.87)
 		)
 		(stroke
 			(width 0)
@@ -4626,7 +4626,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 278.13) (xy 68.58 278.13)
+			(xy 41.91 237.49) (xy 62.23 237.49)
 		)
 		(stroke
 			(width 0)
@@ -4716,7 +4716,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 278.13) (xy 109.22 278.13)
+			(xy 82.55 237.49) (xy 102.87 237.49)
 		)
 		(stroke
 			(width 0)
@@ -4866,7 +4866,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 270.51) (xy 161.29 270.51)
+			(xy 149.86 229.87) (xy 154.94 229.87)
 		)
 		(stroke
 			(width 0)
@@ -4956,7 +4956,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 262.89) (xy 148.59 262.89)
+			(xy 123.19 222.25) (xy 142.24 222.25)
 		)
 		(stroke
 			(width 0)
@@ -4976,7 +4976,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 262.89) (xy 68.58 262.89)
+			(xy 41.91 222.25) (xy 62.23 222.25)
 		)
 		(stroke
 			(width 0)
@@ -5158,7 +5158,7 @@
 	)
 	(global_label "enc2_1"
 		(shape input)
-		(at 367.03 170.18 0)
+		(at 294.64 125.73 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5168,7 +5168,7 @@
 		)
 		(uuid "03c6b5bf-fbf4-4e7c-b9b7-37f716f721a8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 376.728 170.18 0)
+			(at 304.338 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5202,7 +5202,7 @@
 	)
 	(global_label "col11"
 		(shape input)
-		(at 331.47 167.64 180)
+		(at 259.08 123.19 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5212,7 +5212,7 @@
 		)
 		(uuid "082ffb1a-a478-4e83-a89b-c8de58c1800d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 323.163 167.64 0)
+			(at 250.773 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5290,7 +5290,7 @@
 	)
 	(global_label "row2"
 		(shape input)
-		(at 331.47 124.46 180)
+		(at 259.08 80.01 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5300,7 +5300,7 @@
 		)
 		(uuid "1d164336-f6cc-487c-b005-028de8e379d4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.0096 124.46 0)
+			(at 251.6196 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5312,7 +5312,7 @@
 	)
 	(global_label "row4"
 		(shape input)
-		(at 331.47 129.54 180)
+		(at 259.08 85.09 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5322,7 +5322,7 @@
 		)
 		(uuid "1ec14c70-5590-4a0e-9afd-3c4f8a863715")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.0096 129.54 0)
+			(at 251.6196 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5334,7 +5334,7 @@
 	)
 	(global_label "col1"
 		(shape input)
-		(at 331.47 142.24 180)
+		(at 259.08 97.79 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5344,7 +5344,7 @@
 		)
 		(uuid "216a65b6-7b0d-47f3-acc6-213a66ccaf19")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.3725 142.24 0)
+			(at 251.9825 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5356,7 +5356,7 @@
 	)
 	(global_label "enc1_2"
 		(shape input)
-		(at 367.03 154.94 0)
+		(at 294.64 110.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5366,7 +5366,7 @@
 		)
 		(uuid "2661a037-e1e6-49f7-8ff0-8517124ae472")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 376.728 154.94 0)
+			(at 304.338 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5400,7 +5400,7 @@
 	)
 	(global_label "enc2_2"
 		(shape input)
-		(at 367.03 157.48 0)
+		(at 294.64 113.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5410,7 +5410,7 @@
 		)
 		(uuid "49736b8f-7554-4c8f-b23e-249932ee39fc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 376.728 157.48 0)
+			(at 304.338 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5422,7 +5422,7 @@
 	)
 	(global_label "enc2_3"
 		(shape input)
-		(at 367.03 162.56 0)
+		(at 294.64 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5432,7 +5432,7 @@
 		)
 		(uuid "543803bc-0933-49d3-89f4-b093cdde4ea0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 376.728 162.56 0)
+			(at 304.338 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5466,7 +5466,7 @@
 	)
 	(global_label "col10"
 		(shape input)
-		(at 367.03 144.78 0)
+		(at 294.64 100.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5476,7 +5476,7 @@
 		)
 		(uuid "59e6602a-a9d8-4887-9cd9-8f3d231841bb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 375.337 144.78 0)
+			(at 302.947 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5510,7 +5510,7 @@
 	)
 	(global_label "row3"
 		(shape input)
-		(at 367.03 142.24 0)
+		(at 294.64 97.79 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5520,7 +5520,7 @@
 		)
 		(uuid "5d92fe36-ff18-4dc6-b941-99f6780cdcb6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 374.4904 142.24 0)
+			(at 302.1004 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5532,7 +5532,7 @@
 	)
 	(global_label "enc1_1"
 		(shape input)
-		(at 367.03 167.64 0)
+		(at 294.64 123.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5542,7 +5542,7 @@
 		)
 		(uuid "5ddf85d6-fce4-428e-8443-7e09f48eeeea")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 376.728 167.64 0)
+			(at 304.338 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5554,7 +5554,7 @@
 	)
 	(global_label "row5"
 		(shape input)
-		(at 331.47 132.08 180)
+		(at 259.08 87.63 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5564,7 +5564,7 @@
 		)
 		(uuid "6d0cd35a-e212-4292-8e60-1240b4e48ee0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.0096 132.08 0)
+			(at 251.6196 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5598,7 +5598,7 @@
 	)
 	(global_label "col4"
 		(shape input)
-		(at 331.47 149.86 180)
+		(at 259.08 105.41 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5608,7 +5608,7 @@
 		)
 		(uuid "80bf1f47-d33e-46a0-bdce-14402b18fa4d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.3725 149.86 0)
+			(at 251.9825 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5620,7 +5620,7 @@
 	)
 	(global_label "col5"
 		(shape input)
-		(at 367.03 137.16 0)
+		(at 294.64 92.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5630,7 +5630,7 @@
 		)
 		(uuid "823ea2bd-871a-44d0-9c1c-2c5ab9da60e0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 374.1275 137.16 0)
+			(at 301.7375 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5708,7 +5708,7 @@
 	)
 	(global_label "rgb"
 		(shape input)
-		(at 367.03 149.86 0)
+		(at 294.64 105.41 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5718,7 +5718,7 @@
 		)
 		(uuid "883cd2b2-b69d-4bc6-acaa-dabe2358dedb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 373.0994 149.86 0)
+			(at 300.7094 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5752,7 +5752,7 @@
 	)
 	(global_label "rgb"
 		(shape input)
-		(at 40.64 270.51 180)
+		(at 34.29 229.87 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5762,7 +5762,7 @@
 		)
 		(uuid "997f06b6-3229-4935-9183-58b8d1adca9b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 34.5706 270.51 0)
+			(at 28.2206 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5840,7 +5840,7 @@
 	)
 	(global_label "enc1_3"
 		(shape input)
-		(at 367.03 160.02 0)
+		(at 294.64 115.57 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5850,7 +5850,7 @@
 		)
 		(uuid "a9cf0716-1fc7-49b6-b423-a0f88b85f76c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 376.728 160.02 0)
+			(at 304.338 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5884,7 +5884,7 @@
 	)
 	(global_label "col7"
 		(shape input)
-		(at 331.47 157.48 180)
+		(at 259.08 113.03 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5894,7 +5894,7 @@
 		)
 		(uuid "b304cf9d-e5af-45f1-a336-18acb1968666")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.3725 157.48 0)
+			(at 251.9825 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5906,7 +5906,7 @@
 	)
 	(global_label "row6"
 		(shape input)
-		(at 331.47 134.62 180)
+		(at 259.08 90.17 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5916,7 +5916,7 @@
 		)
 		(uuid "b6089100-1907-43f1-9bdd-e84bc0b74a36")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.0096 134.62 0)
+			(at 251.6196 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5928,7 +5928,7 @@
 	)
 	(global_label "col8"
 		(shape input)
-		(at 331.47 160.02 180)
+		(at 259.08 115.57 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5938,7 +5938,7 @@
 		)
 		(uuid "bcc8f044-9cea-4545-b67e-a1d584c57bec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.3725 160.02 0)
+			(at 251.9825 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5950,7 +5950,7 @@
 	)
 	(global_label "col2"
 		(shape input)
-		(at 331.47 144.78 180)
+		(at 259.08 100.33 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5960,7 +5960,7 @@
 		)
 		(uuid "bdd1e4d7-0dfc-44ac-8721-f99f7c017bfa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.3725 144.78 0)
+			(at 251.9825 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5994,7 +5994,7 @@
 	)
 	(global_label "col3"
 		(shape input)
-		(at 331.47 147.32 180)
+		(at 259.08 102.87 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6004,7 +6004,7 @@
 		)
 		(uuid "c236b6a9-36f4-4f6d-9afc-32d7c7d97085")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.3725 147.32 0)
+			(at 251.9825 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6038,7 +6038,7 @@
 	)
 	(global_label "col6"
 		(shape input)
-		(at 331.47 154.94 180)
+		(at 259.08 110.49 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6048,7 +6048,7 @@
 		)
 		(uuid "d17f78ec-7bed-460b-8617-1e340a078562")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.3725 154.94 0)
+			(at 251.9825 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6126,7 +6126,7 @@
 	)
 	(global_label "row1"
 		(shape input)
-		(at 331.47 121.92 180)
+		(at 259.08 77.47 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6136,7 +6136,7 @@
 		)
 		(uuid "e36d5f56-b99b-4d29-b67a-aeea80607f21")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.0096 121.92 0)
+			(at 251.6196 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6148,7 +6148,7 @@
 	)
 	(global_label "col9"
 		(shape input)
-		(at 331.47 162.56 180)
+		(at 259.08 118.11 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6158,7 +6158,7 @@
 		)
 		(uuid "ea63d3e9-544c-4eaa-a20f-ba788b90bcde")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.3725 162.56 0)
+			(at 251.9825 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6192,7 +6192,7 @@
 	)
 	(global_label "row7"
 		(shape input)
-		(at 331.47 137.16 180)
+		(at 259.08 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6202,7 +6202,7 @@
 		)
 		(uuid "ef584de8-4029-452e-9f9d-ae96086f4e4c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.0096 137.16 0)
+			(at 251.6196 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6258,7 +6258,7 @@
 	)
 	(global_label "col12"
 		(shape input)
-		(at 331.47 170.18 180)
+		(at 259.08 125.73 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6268,7 +6268,7 @@
 		)
 		(uuid "f844840c-f6a2-44fe-95b2-4fd2496bcc26")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 323.163 170.18 0)
+			(at 250.773 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6727,7 +6727,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 48.26 278.13 0)
+		(at 41.91 237.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6736,7 +6736,7 @@
 		(fields_autoplaced yes)
 		(uuid "0d4c122f-e615-41b8-a55b-c4046b478339")
 		(property "Reference" "#PWR06"
-			(at 48.26 284.48 0)
+			(at 41.91 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6745,7 +6745,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 48.26 283.21 0)
+			(at 41.91 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6753,7 +6753,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 278.13 0)
+			(at 41.91 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6762,7 +6762,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 278.13 0)
+			(at 41.91 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6771,7 +6771,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 48.26 278.13 0)
+			(at 41.91 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8197,7 +8197,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI")
-		(at 148.59 270.51 0)
+		(at 142.24 229.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8206,7 +8206,7 @@
 		(fields_autoplaced yes)
 		(uuid "28d30ac8-b40d-4ae2-965f-7a4ffe68f2c8")
 		(property "Reference" "D90"
-			(at 161.29 264.1914 0)
+			(at 154.94 223.5514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8214,7 +8214,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI"
-			(at 161.29 266.7314 0)
+			(at 154.94 226.0914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8222,7 +8222,7 @@
 			)
 		)
 		(property "Footprint" "royboard_footprints:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
-			(at 149.86 278.13 0)
+			(at 143.51 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8232,7 +8232,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
-			(at 151.13 280.035 0)
+			(at 144.78 239.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8242,7 +8242,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 148.59 270.51 0)
+			(at 142.24 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10270,7 +10270,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI")
-		(at 48.26 270.51 0)
+		(at 41.91 229.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10279,7 +10279,7 @@
 		(fields_autoplaced yes)
 		(uuid "5217b4d1-f282-4ecc-912c-b2be6e999455")
 		(property "Reference" "D85"
-			(at 60.96 264.1914 0)
+			(at 54.61 223.5514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10287,7 +10287,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI"
-			(at 60.96 266.7314 0)
+			(at 54.61 226.0914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10295,7 +10295,7 @@
 			)
 		)
 		(property "Footprint" "royboard_footprints:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
-			(at 49.53 278.13 0)
+			(at 43.18 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10305,7 +10305,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
-			(at 50.8 280.035 0)
+			(at 44.45 239.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10315,7 +10315,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 48.26 270.51 0)
+			(at 41.91 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12198,7 +12198,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI")
-		(at 88.9 270.51 0)
+		(at 82.55 229.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12207,7 +12207,7 @@
 		(fields_autoplaced yes)
 		(uuid "7492a65d-5762-4cfd-accc-69d8be9a94b0")
 		(property "Reference" "D87"
-			(at 101.6 264.1914 0)
+			(at 95.25 223.5514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12215,7 +12215,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI"
-			(at 101.6 266.7314 0)
+			(at 95.25 226.0914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12223,7 +12223,7 @@
 			)
 		)
 		(property "Footprint" "royboard_footprints:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
-			(at 90.17 278.13 0)
+			(at 83.82 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12233,7 +12233,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
-			(at 91.44 280.035 0)
+			(at 85.09 239.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12243,7 +12243,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 88.9 270.51 0)
+			(at 82.55 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12274,7 +12274,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI")
-		(at 68.58 270.51 0)
+		(at 62.23 229.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12283,7 +12283,7 @@
 		(fields_autoplaced yes)
 		(uuid "74959203-87d3-44e3-83f2-6533eb6bc524")
 		(property "Reference" "D86"
-			(at 81.28 264.1914 0)
+			(at 74.93 223.5514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12291,7 +12291,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI"
-			(at 81.28 266.7314 0)
+			(at 74.93 226.0914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12299,7 +12299,7 @@
 			)
 		)
 		(property "Footprint" "royboard_footprints:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
-			(at 69.85 278.13 0)
+			(at 63.5 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12309,7 +12309,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
-			(at 71.12 280.035 0)
+			(at 64.77 239.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12319,7 +12319,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 68.58 270.51 0)
+			(at 62.23 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15636,7 +15636,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 48.26 262.89 0)
+		(at 41.91 222.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15645,7 +15645,7 @@
 		(fields_autoplaced yes)
 		(uuid "adcc1f93-457c-4305-8a49-f25485e89add")
 		(property "Reference" "#PWR07"
-			(at 48.26 266.7 0)
+			(at 41.91 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15654,7 +15654,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 48.26 257.81 0)
+			(at 41.91 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15662,7 +15662,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 262.89 0)
+			(at 41.91 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15671,7 +15671,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 262.89 0)
+			(at 41.91 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15680,7 +15680,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 48.26 262.89 0)
+			(at 41.91 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15858,7 +15858,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI")
-		(at 129.54 270.51 0)
+		(at 123.19 229.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15867,7 +15867,7 @@
 		(fields_autoplaced yes)
 		(uuid "b1ae5c94-d699-425b-b04f-26d5ed3ac9a4")
 		(property "Reference" "D89"
-			(at 142.24 264.1914 0)
+			(at 135.89 223.5514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15875,7 +15875,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI"
-			(at 142.24 266.7314 0)
+			(at 135.89 226.0914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15883,7 +15883,7 @@
 			)
 		)
 		(property "Footprint" "royboard_footprints:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
-			(at 130.81 278.13 0)
+			(at 124.46 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15893,7 +15893,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
-			(at 132.08 280.035 0)
+			(at 125.73 239.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15903,7 +15903,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 129.54 270.51 0)
+			(at 123.19 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17114,7 +17114,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 367.03 121.92 270)
+		(at 294.64 77.47 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17123,7 +17123,7 @@
 		(fields_autoplaced yes)
 		(uuid "c5cc7464-a900-4f0d-89bb-2586abe06128")
 		(property "Reference" "#PWR05"
-			(at 363.22 121.92 0)
+			(at 290.83 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17132,7 +17132,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 370.84 121.9199 90)
+			(at 298.45 77.4699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17141,7 +17141,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 367.03 121.92 0)
+			(at 294.64 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17150,7 +17150,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 367.03 121.92 0)
+			(at 294.64 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17159,7 +17159,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 367.03 121.92 0)
+			(at 294.64 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17336,7 +17336,7 @@
 	)
 	(symbol
 		(lib_id "RaspberryPiPico:Pico")
-		(at 349.25 146.05 0)
+		(at 276.86 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17345,7 +17345,7 @@
 		(fields_autoplaced yes)
 		(uuid "c78a6a53-6082-49f7-86de-0351b619a7af")
 		(property "Reference" "U1"
-			(at 349.25 114.3 0)
+			(at 276.86 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17353,7 +17353,7 @@
 			)
 		)
 		(property "Value" "Pico"
-			(at 349.25 116.84 0)
+			(at 276.86 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17361,7 +17361,7 @@
 			)
 		)
 		(property "Footprint" "royboard_footprints:RPi_Pico_SMD_TH"
-			(at 349.25 146.05 90)
+			(at 276.86 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17370,7 +17370,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 349.25 146.05 0)
+			(at 276.86 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17379,7 +17379,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 349.25 146.05 0)
+			(at 276.86 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18863,7 +18863,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 367.03 127 90)
+		(at 294.64 82.55 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18872,7 +18872,7 @@
 		(fields_autoplaced yes)
 		(uuid "db2a33fe-cc4a-4ad8-8ab7-bc0a1ffd4b4e")
 		(property "Reference" "#PWR04"
-			(at 373.38 127 0)
+			(at 300.99 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18881,7 +18881,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 370.84 126.9999 90)
+			(at 298.45 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18890,7 +18890,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 367.03 127 0)
+			(at 294.64 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18899,7 +18899,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 367.03 127 0)
+			(at 294.64 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18908,7 +18908,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 367.03 127 0)
+			(at 294.64 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20090,7 +20090,7 @@
 	)
 	(symbol
 		(lib_id "LED:SK6812MINI")
-		(at 109.22 270.51 0)
+		(at 102.87 229.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20099,7 +20099,7 @@
 		(fields_autoplaced yes)
 		(uuid "f76af4d8-d503-449b-8570-a9970222e3fa")
 		(property "Reference" "D88"
-			(at 121.92 264.1914 0)
+			(at 115.57 223.5514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20107,7 +20107,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI"
-			(at 121.92 266.7314 0)
+			(at 115.57 226.0914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20115,7 +20115,7 @@
 			)
 		)
 		(property "Footprint" "royboard_footprints:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
-			(at 110.49 278.13 0)
+			(at 104.14 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20125,7 +20125,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
-			(at 111.76 280.035 0)
+			(at 105.41 239.395 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20135,7 +20135,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 109.22 270.51 0)
+			(at 102.87 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)

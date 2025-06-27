@@ -19,6 +19,11 @@ A Custom wired mechanical keyboard that I made by myself! This is a part of [hac
 ![pcbFront](assets/screenshots/pcbFront.png)
 ![pcbBack](assets/screenshots/pcbBack.png)
 
+## 3D view
+
+![3dView](assets/full_render.png)
+![3dView2](assets/full_render_angled.png)
+
 ## What tools did I use? 🪛
 
 - [kiCad](https://www.kicad.org/) : For PCB designing
