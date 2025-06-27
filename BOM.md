@@ -9,4 +9,4 @@
 |7.| PCB |x5|58.11|58.11|[here](https://jlcpcb.com)|
 |8.| M3x10mm screws|x4| - | - | [here](-)|
 |9.| M3 spacers |x4| - | - | [here](-)|
-|8.| M3 nuts |x4| - | - | [here](-)|
+|10.| M3 nuts |x4| - | - | [here](-)|

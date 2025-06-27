@@ -51,7 +51,10 @@ Does exactly what you would expect a keyboard to do, along with some handy funct
 |7.| PCB |x5|58.11|58.11|[here](https://jlcpcb.com)|
 |8.| M3x10mm screws|x4| - | - | [here](-)|
 |9.| M3 spacers |x4| - | - | [here](-)|
-|8.| M3 nuts |x4| - | - | [here](-)|
+|10.| M3 nuts |x4| - | - | [here](-)|
+|Total|126.2|
+
+> The ones having value "-" are yet to be decided and will soon be updated, till then, just for an estimate of the total price I added $5 extra.
 
 ## To-Do 🛠️
 - [ ] Build it irl
