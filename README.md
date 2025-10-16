@@ -12,7 +12,7 @@ A Custom wired mechanical keyboard that I made by myself! This is a part of [hac
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Screenshots 📷
-
+(a few 3d models are missing in the screenshots, i will fix it very soon)
 ![3dFront](assets/screenshots/3dFront.png)
 ![3dBack](assets/screenshots/3dBack.png)
 ![schematic](assets/screenshots/schematic.png)
@@ -42,19 +42,19 @@ Does exactly what you would expect a keyboard to do, along with some handy funct
 
 |Index|Name|Quantity|Price(in USD)|Total Price(in USD)|Link|
 |-----|----|--------|-------------|-------------------|----|
-|1.| Veekos Gradient Keycaps|x1|15.17|15.17|[here](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/)|
-|2.| Raspberry Pi Pico|x1|3.43|3.43|[here](https://www.silverlineelectronics.in/collections/raspberry-pi-pico/products/raspberry-pi-pico)|
-|3.| 1N4148 THT Diodes|x100|0.012|1.16|[here](https://www.amazon.in/dp/B084ZP5BJ3?ref_=cm_sw_r_cp_ud_dp_YPW3WFYTE31QA18570D1&_encoding=UTF8&psc=1)
-|4.| EC11 Rotary Encoders |x4|1.04|4.16|[here](https://www.amazon.in/dp/B0888RVZSN?ref_=cm_sw_r_cp_ud_dp_ECM6496E6Q914JPQP2XQ&_encoding=UTF8&psc=1)|
-|5.| Gateron EF grayish |x90|20.51|20.51|[here](https://neomacro.in/products/gateron-ef-grayish)|
-|6.| Durock Smockey Screw-In Stabilizers v2|x1(4+1 set)|18.66|18.66|[here](https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/)|
+|1.| Veekos Gradient Keycaps|x1|14.76|14.76|[here](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/)|
+|2.| Raspberry Pi Pico|x1|3.34|3.34|[here](https://www.silverlineelectronics.in/collections/raspberry-pi-pico/products/raspberry-pi-pico)|
+|3.| 1N4148 THT Diodes|x100|0.011|1.13|[here](https://www.amazon.in/dp/B084ZP5BJ3?ref_=cm_sw_r_cp_ud_dp_YPW3WFYTE31QA18570D1&_encoding=UTF8&psc=1)
+|4.| EC11 Rotary Encoders |x4|3.91|3.91+0.57|[here](https://www.amazon.in/dp/B0888RVZSN?ref_=cm_sw_r_cp_ud_dp_ECM6496E6Q914JPQP2XQ&_encoding=UTF8&psc=1)|
+|5.| Gateron EF grayish |x90|17.39|17.39|[here](https://neomacro.in/products/gateron-ef-grayish)|
+|6.| Durock Smockey Screw-In Stabilizers v2|x1(4+1 set)|18.13|18.13|[here](https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/)|
 |7.| PCB |x5|58.11|58.11|[here](https://jlcpcb.com)|
-|8.| M3x10mm screws|x4| - | - | [here](-)|
+|8.| M3x10mm screws|x4| 0.02 | 0.09 | [here](https://onlyscrews.in/products/phillips-pan-head-m3-x-10mm-pack-of-20?srsltid=AfmBOoqFP2YF-uH3UTtxzyJ8QE0t_tUQ-Qql6p79mTNIDJj5MmGqhR-m)|
 |9.| M3 spacers |x4| - | - | [here](-)|
 |10.| M3 nuts |x4| - | - | [here](-)|
-|Total|126.2|
+|Total|117.41|
 
-> The ones having value "-" are yet to be decided and will soon be updated, till then, just for an estimate of the total price I added $5 extra.
+> The ones having value "-" are probably things that i would get locally. 8. M3x10mm screws is also something that i might get locally,  but only added the link for reference.
 
 ## To-Do 🛠️
 - [ ] Build it irl
