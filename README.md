@@ -15,10 +15,13 @@ Its a mechanical keyboard that I made from scratch! Its basically a 75% keyboard
 
 I would be using these keycaps: [these](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/)
 
-![3dView](assets/full_render.png)
-![3dView2](assets/full_render_angled.png)
+![1](assets/1.png)
+![2](assets/2.png)
+![3](assets/3.png)
+![4](assets/4.png)
+![5](assets/5.png)
 
-## Screenshots 📷
+## Screenshots 
 
 ![3dFront](assets/screenshots/3dFront.png)
 ![3dBack](assets/screenshots/3dBack.png)
@@ -27,13 +30,13 @@ I would be using these keycaps: [these](https://stackskb.com/store/veekos-gradie
 ![pcbBack](assets/screenshots/pcbBack.png)
 ![layout](assets/screenshots/layout.png)
 
-## What tools did I use? 🪛
+## What tools did I use? 
 
 - [kiCad](https://www.kicad.org/) : For PCB designing
 - [shapr3d](https://www.shapr3d.com/) & [OnShape](https://onshape.com): For Case designing
 - [keyboard-layout-editor](keyboard-layout-editor.com): For layout designing
 
-## Firmware 🖥️
+## Firmware
 
 As of now, the firmware is untested, and is written with [kmk](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md).
 Does exactly what you would expect a keyboard to do, along with some handy functions(Not yet tested, but I am pretty sure they are gonna be helpful)
@@ -41,7 +44,7 @@ Does exactly what you would expect a keyboard to do, along with some handy funct
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Bill of materials 💰
+## Bill of materials
 
 |Index|Name|Quantity|Price(in USD)|Total Price(in USD)|Link|
 |-----|----|--------|-------------|-------------------|----|
@@ -62,14 +65,14 @@ Does exactly what you would expect a keyboard to do, along with some handy funct
 > [!NOTE]
 > This DOES NOT include the price for the knobs, and other 3d printed parts of the case. I want to print them through print-legion.
 
-## To-Do 🛠️
+## To-Do 
 - [ ] Build it irl
 - [ ] Do testing
  
-## Known bugs 🐞
+## Known bugs
 - not yet tested, so no idea:/ , lmk if you find any!
 
-## Contributing 🤝
+## Contributing
 
 Everyone is welcome to contribute to the code!
 You can also raise an issue, or suggest any features that you think would be great :)
