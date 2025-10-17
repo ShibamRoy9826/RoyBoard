@@ -1,8 +1,8 @@
 # RoyBoard 
 
-A Custom wired mechanical keyboard that I made by myself! This is a part of [hackclub's](https://hackclub.com/) [hackpad](https://hackpad.hackclub.com/) event, where teenagers like me make their own macropads and keyboards.
+Its a mechanical keyboard that I made from scratch! Its basically a 75% keyboard with 81 keys in total, with 3 additional rotary encoders for different tasks such as volume control, brightness control and scrolling, of course these functionalities are subject to change(I might change them depending on my mood, I would probably add some modes-like-thingy to the firmware). It has a few neopixels too! not per key RGB though, because i rarely use backlight and it was pretty daunting to route them up, considering the fact that i just started hardware back then, the ones which I have are meant for aesthetics(notice the cutouts in the plate).  I tried to make the PCB minecraft themed by the use of some silkscreen.
 
-## Features 😎
+## Features 
 
 - Includes RGB lights (not per key RGB)
 - Has 1 rotary encoder, but has multiple functions
@@ -11,8 +11,15 @@ A Custom wired mechanical keyboard that I made by myself! This is a part of [hac
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 3D view
+
+I would be using these keycaps: [these](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/)
+
+![3dView](assets/full_render.png)
+![3dView2](assets/full_render_angled.png)
+
 ## Screenshots 📷
-(a few 3d models are missing in the screenshots, i will fix it very soon)
+
 ![3dFront](assets/screenshots/3dFront.png)
 ![3dBack](assets/screenshots/3dBack.png)
 ![schematic](assets/screenshots/schematic.png)
@@ -20,15 +27,11 @@ A Custom wired mechanical keyboard that I made by myself! This is a part of [hac
 ![pcbBack](assets/screenshots/pcbBack.png)
 ![layout](assets/screenshots/layout.png)
 
-## 3D view
-
-![3dView](assets/full_render.png)
-![3dView2](assets/full_render_angled.png)
-
 ## What tools did I use? 🪛
 
 - [kiCad](https://www.kicad.org/) : For PCB designing
-- [shapr3d](https://www.shapr3d.com/) : For Case designing
+- [shapr3d](https://www.shapr3d.com/) & [OnShape](https://onshape.com): For Case designing
+- [keyboard-layout-editor](keyboard-layout-editor.com): For layout designing
 
 ## Firmware 🖥️
 
@@ -56,6 +59,9 @@ Does exactly what you would expect a keyboard to do, along with some handy funct
 
 > The ones having value "-" are probably things that i would get locally. 8. M3x10mm screws is also something that i might get locally,  but only added the link for reference.
 
+> [!NOTE]
+> This DOES NOT include the price for the knobs, and other 3d printed parts of the case. I want to print them through print-legion.
+
 ## To-Do 🛠️
 - [ ] Build it irl
 - [ ] Do testing
@@ -66,7 +72,6 @@ Does exactly what you would expect a keyboard to do, along with some handy funct
 ## Contributing 🤝
 
 Everyone is welcome to contribute to the code!
-
 You can also raise an issue, or suggest any features that you think would be great :)
 
 > ✨ Please star this repository if you liked this project 😁
