@@ -1,12 +1,12 @@
-Index,Name,Quantity,Price(USD),Total Price(USD),Link
-1., Veekos Gradient Keycaps,x1,15.17,15.17,https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/
-2., Raspberry Pi Pico,x1,3.43,3.43,https://www.silverlineelectronics.in/collections/raspberry-pi-pico/products/raspberry-pi-pico
-3., 1N4148 THT Diodes,x100,0.012,1.16,https://www.amazon.in/dp/B084ZP5BJ3?ref_=cm_sw_r_cp_ud_dp_YPW3WFYTE31QA18570D1&_encoding=UTF8&psc=1
-4., EC11 Rotary Encoders ,x4,1.04,4.16,https://www.amazon.in/dp/B0888RVZSN?ref_=cm_sw_r_cp_ud_dp_ECM6496E6Q914JPQP2XQ&_encoding=UTF8&psc=1
-5., Gateron EF grayish ,x90,20.51,20.51,https://neomacro.in/products/gateron-ef-grayish),
-6., Durock Smockey Screw-In Stabilizers v2,x1(4+1 set),18.66,18.66,https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/
-7., PCB ,x5,58.11,58.11,https://jlcpcb.com
-8., M3x10mm screws,x4, - , - , -
-9., M3 spacers ,x4, - , - , -
-10., M3 nuts ,x4, - , - , -
-
+Index,Name,Quantity,Price(in USD),Total Price(in USD),Link
+1,Veekos Gradient Keycaps,x1,14.76,14.76,https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/
+2,Raspberry Pi Pico,x1,3.34,3.34,https://www.silverlineelectronics.in/collections/raspberry-pi-pico/products/raspberry-pi-pico
+3,1N4148 THT Diodes,x100,0.011,1.13,https://www.amazon.in/dp/B084ZP5BJ3?ref_=cm_sw_r_cp_ud_dp_YPW3WFYTE31QA18570D1&_encoding=UTF8&psc=1
+4,EC11 Rotary Encoders,x4,3.91,"3.91+0.57",https://www.amazon.in/dp/B0888RVZSN?ref_=cm_sw_r_cp_ud_dp_ECM6496E6Q914JPQP2XQ&_encoding=UTF8&psc=1
+5,Gateron weightlessness,x90,0.44,39.91,https://neomacro.in/products/gateron-ef-grayish
+6,Durock Smockey Screw-In Stabilizers v2,"x1(4+1 set)",18.13,18.13,https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/
+7,PCB,x5,58.11,58.11,https://jlcpcb.com
+8,M3x10mm screws,x4,0.02,0.09,https://onlyscrews.in/products/phillips-pan-head-m3-x-10mm-pack-of-20?srsltid=AfmBOoqFP2YF-uH3UTtxzyJ8QE0t_tUQ-Qql6p79mTNIDJj5MmGqhR-m
+9,M3 spacers,x4,-,-,-
+10,M3 nuts,x4,-,-,-
+Total,,,,140.15,
