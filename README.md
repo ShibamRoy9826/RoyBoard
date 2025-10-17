@@ -7,7 +7,6 @@ Its a mechanical keyboard that I made from scratch! Its basically a 75% keyboard
 - Includes RGB lights (not per key RGB)
 - Has 1 rotary encoder, but has multiple functions
 - Consists of 81 keys in total, a 75% keyboard
-- Controllable RGB light brightness
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -52,13 +51,13 @@ Does exactly what you would expect a keyboard to do, along with some handy funct
 |2.| Raspberry Pi Pico|x1|3.34|3.34|[here](https://www.silverlineelectronics.in/collections/raspberry-pi-pico/products/raspberry-pi-pico)|
 |3.| 1N4148 THT Diodes|x100|0.011|1.13|[here](https://www.amazon.in/dp/B084ZP5BJ3?ref_=cm_sw_r_cp_ud_dp_YPW3WFYTE31QA18570D1&_encoding=UTF8&psc=1)
 |4.| EC11 Rotary Encoders |x4|3.91|3.91+0.57|[here](https://www.amazon.in/dp/B0888RVZSN?ref_=cm_sw_r_cp_ud_dp_ECM6496E6Q914JPQP2XQ&_encoding=UTF8&psc=1)|
-|5.| Gateron EF grayish |x90|17.39|17.39|[here](https://neomacro.in/products/gateron-ef-grayish)|
+|5.| Gateron weightlessness |x90|0.44|39.91|[here](https://neomacro.in/products/gateron-ef-grayish)|
 |6.| Durock Smockey Screw-In Stabilizers v2|x1(4+1 set)|18.13|18.13|[here](https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/)|
 |7.| PCB |x5|58.11|58.11|[here](https://jlcpcb.com)|
 |8.| M3x10mm screws|x4| 0.02 | 0.09 | [here](https://onlyscrews.in/products/phillips-pan-head-m3-x-10mm-pack-of-20?srsltid=AfmBOoqFP2YF-uH3UTtxzyJ8QE0t_tUQ-Qql6p79mTNIDJj5MmGqhR-m)|
 |9.| M3 spacers |x4| - | - | [here](-)|
 |10.| M3 nuts |x4| - | - | [here](-)|
-|Total|117.41|
+|Total||||140.15|
 
 > The ones having value "-" are probably things that i would get locally. 8. M3x10mm screws is also something that i might get locally,  but only added the link for reference.
 
