@@ -48,7 +48,7 @@ Does exactly what you would expect a keyboard to do, along with some handy funct
 |Index|Name|Quantity|Price(in USD)|Total Price(in USD)|Link|
 |-----|----|--------|-------------|-------------------|----|
 |1.| Veekos Gradient Keycaps|x1|14.76|14.76|[here](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/)|
-|2.| Raspberry Pi Pico|x1|3.34|3.34|[here](https://www.silverlineelectronics.in/collections/raspberry-pi-pico/products/raspberry-pi-pico)|
+|2.| Orpheus Pico|x1|NA|NA| From Hackclub HQ |
 |3.| 1N4148 THT Diodes|x100|0.011|1.13|[here](https://www.amazon.in/dp/B084ZP5BJ3?ref_=cm_sw_r_cp_ud_dp_YPW3WFYTE31QA18570D1&_encoding=UTF8&psc=1)
 |4.| EC11 Rotary Encoders |x4|3.91|3.91+0.57|[here](https://www.amazon.in/dp/B0888RVZSN?ref_=cm_sw_r_cp_ud_dp_ECM6496E6Q914JPQP2XQ&_encoding=UTF8&psc=1)|
 |5.| Gateron weightlessness |x90|0.44|39.91|[here](https://neomacro.in/products/gateron-ef-grayish)|
@@ -57,7 +57,8 @@ Does exactly what you would expect a keyboard to do, along with some handy funct
 |8.| M3x10mm screws|x4| 0.02 | 0.09 | [here](https://onlyscrews.in/products/phillips-pan-head-m3-x-10mm-pack-of-20?srsltid=AfmBOoqFP2YF-uH3UTtxzyJ8QE0t_tUQ-Qql6p79mTNIDJj5MmGqhR-m)|
 |9.| M3 spacers |x4| - | - | [here](-)|
 |10.| M3 nuts |x4| - | - | [here](-)|
-|Total||||140.15|
+|11.| SK6812 MINI-E LEDs |x10| 0.85+6.77 | 7.62 | [here](https://www.lcsc.com/product-detail/C5149201.html)
+|Total||||TO BE CALCULATED|
 
 > The ones having value "-" are probably things that i would get locally. 8. M3x10mm screws is also something that i might get locally,  but only added the link for reference.
 
