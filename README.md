@@ -11,13 +11,25 @@ Its a mechanical keyboard that I made from scratch! Its basically a 75% keyboard
 - Consists of 81 keys in total, a 75%-ish keyboard
 
 ## Renders
-Just for reference, these are the original keycaps that I would be using: [here](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/)
+Just for reference, these are the original keycaps that I would be using: [here](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/) . I changed the keycaps later on, thus the renders use a different keycap set.
 
 ### Full 3d renders
 
+![ai](assets/screenshots/Full/ai.png)
+
 ![first](assets/screenshots/Full/1.jpg)
+
 ![second](assets/screenshots/Full/2.jpg)
+
 ![third](assets/screenshots/Full/3.jpg)
+
+### Bottom case
+
+![bottom](assets/screenshots/Full/bottom.jpg)
+
+### Top plate
+
+![top](assets/screenshots/Full/top.jpg)
 
 ### PCB 3D (Front)
 
