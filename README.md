@@ -10,26 +10,42 @@ Its a mechanical keyboard that I made from scratch! Its basically a 75% keyboard
 - A unique look that I never saw a keyboard have before
 - Consists of 81 keys in total, a 75%-ish keyboard
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Renders
+Just for reference, these are the original keycaps that I would be using: [here](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/)
 
-## 3D view
+### Full 3d renders
 
-I would be using these keycaps: [these](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/)
+![first](assets/screenshots/Full/1.jpg)
+![second](assets/screenshots/Full/2.jpg)
+![third](assets/screenshots/Full/3.jpg)
 
-![1](assets/1.png)
-![2](assets/2.png)
-![3](assets/3.png)
-![4](assets/4.png)
-![5](assets/5.png)
+### PCB 3D (Front)
 
-## Screenshots 
+![3dfront](assets/screenshots/PCB3d/Front.png)
 
-![3dFront](assets/screenshots/3dFront.png)
-![3dBack](assets/screenshots/3dBack.png)
+### PCB 3D (Front)
+
+![3dback](assets/screenshots/PCB3d/Back.png)
+
+### Schematic
+
 ![schematic](assets/screenshots/schematic.png)
-![pcbFront](assets/screenshots/pcbFront.png)
-![pcbBack](assets/screenshots/pcbBack.png)
+
+### Layout
+
 ![layout](assets/screenshots/layout.png)
+
+### PCB
+
+![pcb](assets/screenshots/PCB/PCB.png)
+
+### PCB Back
+
+![pcb back](assets/screenshots/PCB/Back.png)
+
+### PCB Front
+
+![pcb front](assets/screenshots/PCB/Front.png)
 
 ## What tools did I use? 
 
