@@ -35,7 +35,7 @@ Just for reference, these are the original keycaps that I would be using: [here]
 
 ![3dfront](assets/screenshots/PCB3d/Front.png)
 
-### PCB 3D (Front)
+### PCB 3D (Back)
 
 ![3dback](assets/screenshots/PCB3d/Back.png)
 
