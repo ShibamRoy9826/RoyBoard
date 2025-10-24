@@ -11,7 +11,7 @@ Its a mechanical keyboard that I made from scratch! Its basically a 75% keyboard
 - Consists of 81 keys in total, a 75%-ish keyboard
 
 ## Renders
-Just for reference, these are the original keycaps that I would be using: [here](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/) . I changed the keycaps later on, thus the renders use a different keycap set.
+Just for reference, these are the original keycaps that I would be using: [here](https://curiositycaps.in/products/vintage-poker-translucent-keycaps-set) . I changed the keycaps later on, thus the renders use a different keycap set.
 
 ### Full 3d renders
 
@@ -75,7 +75,7 @@ Does exactly what you would expect a keyboard to do, along with some handy funct
 
 | Index | Item | Qty | Unit Price (USD) | Total (USD) | Total (INR) | Link |
 |---|------|-----|------------------|--------------|--------------|------|
-| 1 | **Vintage Poker Translucent Keycaps Set** | 1 | 18.20 | 18.20 | ₹1,599 | [StackSKB](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/) |
+| 1 | **Vintage Poker Translucent Keycaps Set** | 1 | 18.20 | 18.20 | ₹1,599 | [CuriousityCaps](https://curiositycaps.in/products/vintage-poker-translucent-keycaps-set) |
 | 2 | **Orpheus Pico** | 1 | — | — | — | From Hack Club HQ |
 | 3 | **1N4148 THT Diodes** | 100 | 0.011 | 1.13 + 1.02 | ₹99 + ₹90 | [Amazon](https://www.amazon.in/dp/B084ZP5BJ3?ref_=cm_sw_r_cp_ud_dp_YPW3WFYTE31QA18570D1&_encoding=UTF8&psc=1) |
 | 4 | **EC11 Rotary Encoders** | 4 | 3.91 | 3.91 + 0.57 | ₹356 + ₹50 | [Amazon](https://www.amazon.in/dp/B0888RVZSN?ref_=cm_sw_r_cp_ud_dp_ECM6496E6Q914JPQP2XQ&_encoding=UTF8&psc=1) |
