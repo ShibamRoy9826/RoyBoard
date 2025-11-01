@@ -1,6 +1,7 @@
 # RoyBoard 
 
 ## Description
+
 Its a mechanical keyboard that I made from scratch! Its basically a 75% keyboard with 81 keys in total, with 3 additional rotary encoders for different tasks such as volume control, brightness control and scrolling, of course these functionalities are subject to change(I might change them depending on my mood, I would probably add some modes-like-thingy to the firmware). It has a few neopixels too! not per key RGB though, because i rarely use backlight and it was pretty daunting to route them up, considering the fact that i just started hardware back then, the ones which I have are meant for aesthetics(notice the cutouts in the plate).  I tried to make the PCB minecraft themed by the use of some silkscreen.
 
 ## Features 
@@ -9,11 +10,13 @@ Its a mechanical keyboard that I made from scratch! Its basically a 75% keyboard
 - Has 3 rotary encoders for different functions
 - A unique look that I never saw a keyboard have before
 - Consists of 81 keys in total, a 75%-ish keyboard
+- 5 degree tilt stand for a comfortable typing experience
 
 ## Renders
-Just for reference, these are the original keycaps that I would be using: [here](https://curiositycaps.in/products/vintage-poker-translucent-keycaps-set) . I changed the keycaps later on, thus the renders use a different keycap set.
 
-### Full 3d renders
+Just for reference, these are the original keycaps that I would be using: [here](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/) . I changed the keycaps later on, thus the renders use a different keycap set.
+
+### Full 3d renders (To Be Updated)
 
 ![ai](assets/screenshots/Full/ai.png)
 
@@ -25,11 +28,13 @@ Just for reference, these are the original keycaps that I would be using: [here]
 
 ### Bottom case
 
-![bottom](assets/screenshots/Full/bottom.jpg)
+![bottom](assets/screenshots/Bottom/1.png)
+![bottom1](assets/screenshots/Bottom/2.png)
+![bottom2](assets/screenshots/Bottom/3.png)
 
 ### Top plate
 
-![top](assets/screenshots/Full/top.jpg)
+![top](assets/screenshots/TopPlate/1.png)
 
 ### PCB 3D (Front)
 
@@ -69,6 +74,10 @@ Just for reference, these are the original keycaps that I would be using: [here]
 As of now, the firmware is untested, and is written with [kmk](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md).
 Does exactly what you would expect a keyboard to do, along with some handy functions(Not yet tested, but I am pretty sure they are gonna be helpful)
 
+## 3D models
+
+You can check the 3d models out in this [public document of OnShape](https://cad.onshape.com/documents/ddc280e53ddd9ad94dbb1da3/w/e89386a56beb1bd36360f18a/e/ed9d1e719b4e163eef3ebe0b?renderMode=0&uiState=6905da6719ceb1e5cc223bec)
+
 ## Bill of materials
 
 ## Project Bill of Materials
@@ -87,20 +96,6 @@ Does exactly what you would expect a keyboard to do, along with some handy funct
 ---
 
 **Total:** $148.74 (13,074 INR)
-
-### Fasteners
-I would be getting these parts myself locally
-
-| # | Item | Qty | Unit Price (USD) | Total (USD) | Total (INR) | Link |
-|---|------|-----|-----------------|-------------|-------------|------|
-| 1 | **M3 × 10 mm Screws** | 4 | 0.02 | 0.09 | — | [OnlyScrews](https://onlyscrews.in/products/phillips-pan-head-m3-x-10mm-pack-of-20?srsltid=AfmBOoqFP2YF-uH3UTtxzyJ8QE0t_tUQ-Qql6p79mTNIDJj5MmGqhR-m) |
-| 2 | **M3 Spacers** | 4 | — | — | — | — |
-| 3 | **M3 Nuts** | 4 | — | — | — | — |
-
-> The values containing "-" are equivalent to not-available, they are very cheap and I would likely get them locally. 
-
-> [!NOTE]
-> This BOM DOES NOT include the price for the knobs, and other 3d printed parts of the case. I would like to print them through print-legion
 
 ## To-Do 
 - [ ] Build it irl
