@@ -1,10 +1,12 @@
-Index,Item,Qty,Unit Price (USD),Total (USD),Total (INR),Link
-1,"Vintage Poker Translucent Keycaps Set",1,18.20,18.20,"₹1,599","https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/"
-2,"Orpheus Pico",1,,,,"From Hack Club HQ"
-3,"1N4148 THT Diodes",100,0.011,"1.13 + 1.02","₹99 + ₹90","https://www.amazon.in/dp/B084ZP5BJ3?ref_=cm_sw_r_cp_ud_dp_YPW3WFYTE31QA18570D1&_encoding=UTF8&psc=1"
-4,"EC11 Rotary Encoders",4,3.91,"3.91 + 0.57","₹356 + ₹50","https://www.amazon.in/dp/B0888RVZSN?ref_=cm_sw_r_cp_ud_dp_ECM6496E6Q914JPQP2XQ&_encoding=UTF8&psc=1"
-5,"Gateron Weightlessness Switches",90,0.44,39.91,"₹3510","https://neomacro.in/products/gateron-weightlessness-switch"
-6,"Durock Smokey Screw-In Stabilizers v2","1 set (4+1)",18.13,18.13,"₹1595","https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/"
-7,"PCB",5,"23.2 + 34.91",58.11,"₹3,067.66 + ₹2,038.66","https://jlcpcb.com"
-8,"SK6812 MINI-E LEDs",10,"0.85 + 6.77",7.62,"₹669.59","https://www.lcsc.com/product-detail/C5149201.html"
-"Total",,,,148.74,13074,
+Item Name,Category,Quantity,Price per unit (USD),Price per unit (INR),Shipping price + Tax (USD),Shipping Price + Tax(INR),Net Price(USD),Net Price(INR),Link
+Vintage Poker Translucent Keycaps Set,Keycaps,1,18.2,1599,0,0,18.2,1599,https://curiositycaps.in/products/vintage-poker-translucent-keycaps-set
+Raspberry PI PICO,MCU,1,,449,0,0,5.06,449,https://www.amazon.in/Raspberry-Pi-Headers-Soldered-Micro/dp/B08WPNM7JB/ref=sr_1_2?crid=34YLKRZJEFWSV&dib=eyJ2IjoiMSJ9.Ir7_QZVqM04Ngdpr7LN13QM41pCcY1HNxTFGwXLlvLKdgoLmIDI5UqU0rxm-6Ke9XGOBxiofNmwImgpua3__K1FU2brFgr9ifZcJYKX8sbfEcM-tqrhcqul8PD1znGTCkt1otAxGRUr1z3iXq27HEML0g86AlX2XEeoksAjE3Ow0_EDbZXxVqYzJER30V0AuHB0scdRrsVyOrGXp9GTpzfmr2Zjhqtmbb_q1OkW01Ws.WhckNVkEYlSM8nd1S7QM2mHuP5NDJVOVcbDvme0YidM&dib_tag=se&keywords=rpi%2Bpico&qid=1761995050&sprefix=rpi%2Bpic%2Caps%2C501&sr=8-2&th=1
+1N4148 THT Diodes,Diodes,100,0.01,0.99,1.01,90,2.13,189,https://www.amazon.in/dp/B084ZP5BJ3?ref_=cm_sw_r_cp_ud_dp_YPW3WFYTE31QA18570D1&_encoding=UTF8&psc=1
+EC11 Rotary Encoders,Rotary encoders,4,1,89,0.57,50,4.48,406,https://www.amazon.in/dp/B0888RVZSN?ref_=cm_sw_r_cp_ud_dp_ECM6496E6Q914JPQP2XQ&_encoding=UTF8&psc=1
+Gateron Weightlessness Switches,Switches,90,0.44,39,0,0,39.53,3510,https://neomacro.in/products/gateron-weightlessness-switch
+Durock Smokey Screw-In Stabilizers v2,Stabilizers,1 set (4+1),18.13,1595,0,0,18.13,1595,https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/
+PCB,PCB,1,66,5860,0,0,66,5860,https://www.pcbpower.com/page/pcb-fabrication
+SK6812 MINI-E LEDs,Neopixels,10,0.85,75.47,6.77,601.11,7.62,669.59,https://www.lcsc.com/product-detail/C5149201.html
+M2 x 6 mm Heat inserts,Heat inserts,9,0.02,2.2,0.75,66.8,1.29,114.6,https://onlyscrews.in/products/m2-x-6mm-brass-threaded-inserts
+M2 x 6 mm screws,Screws,9,0.02,2,Included above,Included above,Included above,Included above,https://onlyscrews.in/products/m2-x-6mm-phillips-pan-head-ss-304-screw
+3D Prints,3d Prints,3,,,,,,,Print-Legion
