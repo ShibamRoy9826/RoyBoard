@@ -6,19 +6,32 @@
 
 ## Description
 
-Its a mechanical keyboard that I made from scratch! Its basically a 75% keyboard with 81 keys in total, with 3 additional rotary encoders for different tasks such as volume control, brightness control and scrolling, of course these functionalities are subject to change(I might change them depending on my mood, I would probably add some modes-like-thingy to the firmware). It has a few neopixels too! not per key RGB though, because i rarely use backlight and it was pretty daunting to route them up, considering the fact that i just started hardware back then, the ones which I have are meant for aesthetics(notice the cutouts in the plate).  I tried to make the PCB minecraft themed by the use of some silkscreen.
+Its a mechanical keyboard that I made from scratch! Its basically a 75% tenkeyless keyboard with 81 keys in total, with 3 additional rotary encoders for different tasks such as volume control, brightness control and scrolling, of course these functionalities are subject to change. It has a few neopixels too! not per key RGB though, because i rarely use backlight and it was pretty daunting to route them up, considering the fact that i just started hardware back then, the ones which I have are meant for aesthetics. Currently, I have dropped the plan to solder them because I mirrored the pinouts and it will be a terrible mess to solder them, I guess I am still satisfied with how it turned out though. 
 
 ## Features 
 
-- Includes RGB lights (not per key RGB)
+- ~Includes RGB lights (not per key RGB)~ (Not soldered)
 - Has 3 rotary encoders for different functions
-- A unique look that I never saw a keyboard have before
-- Consists of 81 keys in total, a 75%-ish keyboard
+    - Media playback
+    - Brightness
+    - Volume
+    - Scrolling
+    - DWM tag switching(Any other wm works)
+- 2 Layer keyboard (as of now, may add more in future if needed)
+- Consists of 81 keys in total + 3 clickable rotary encoders, a 75%-ish Tenkeyless keyboard
 - 5 degree tilt stand for a comfortable typing experience
+
+## Real Life Pics
+
+![firstPic](assets/pics/1.jpeg)
+
+![secondPic](assets/pics/2.jpeg)
+
+![thirdPic](assets/pics/3.jpeg)
 
 ## Renders
 
-Just for reference, these are the original keycaps that I would be using: [here](https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/) . I changed the keycaps later on, thus the renders use a different keycap set.
+Just for reference, these are the original keycaps that I would be using: [here](https://curiositycaps.in/products/vintage-poker-translucent-keycaps-set) . I changed the keycaps later on, thus the renders use a different keycap set.
 
 ### Full 3d renders (To Be Updated)
 The renders don't include stand yet, as it has been recently included. I will update the repo soon.
@@ -82,8 +95,7 @@ The renders don't include stand yet, as it has been recently included. I will up
 - [keyboard-layout-editor](keyboard-layout-editor.com): For layout designing
 
 ## Firmware
-As of now, the firmware is untested, and is written with [kmk](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md).
-Does exactly what you would expect a keyboard to do, along with some handy functions(Not yet tested, but I am pretty sure they are gonna be helpful)
+Written in QMK, I have shifted the firmware to another repository, so please check that out [here](https://github.com/ShibamRoy9826/RoyBoard-firmware)
 
 ## 3D models
 
@@ -114,9 +126,9 @@ The entire keyboard is **385.65mm** x **166mm** (153 without the branding part) 
 **Total:** $162.44 (14,423 INR)
 
 ## To-Do 
-- [ ] Build it irl
-- [ ] Do testing
-- [ ] Upload new pics here
+- [x] ~Build it irl~
+- [x] ~Do testing~
+- [x] ~Upload new pics here~
 
 ## Contributing
 
